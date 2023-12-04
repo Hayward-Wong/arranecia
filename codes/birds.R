@@ -8,3 +8,6 @@ bird_t <-read.csv("data/bird_transect_occurrence.csv") #import the bird transect
          title = "Birds sampled in transects for Northern and Southern Plots"))
 
 ggsave("figures/plot1.png",plot = Bird_transect)
+
+
+#updated
